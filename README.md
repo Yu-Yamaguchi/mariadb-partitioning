@@ -327,7 +327,7 @@ Benchmark
 |2|10|100|
 |3|100|10|
 
-１の実行結果
+#### １の実行結果
 
 ```
     -- パーティショニング前
@@ -349,7 +349,7 @@ Benchmark
         Average number of queries per client: 1
 ```
 
-２の実行結果
+#### ２の実行結果
 
 ```
     -- パーティショニング前
@@ -371,7 +371,7 @@ Benchmark
         Average number of queries per client: 1
 ```
 
-３の実行結果
+#### ３の実行結果
 
 ```
     -- パーティショニング前
