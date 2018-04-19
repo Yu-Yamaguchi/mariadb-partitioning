@@ -168,8 +168,7 @@ MariaDB [(none)]> GRANT ALL ON *.* TO test;
 
 - 大量データをロード（emotion_dicテーブルのデータ）  
 emotion_dicテーブルのデータは下記データを利用している。
-
-
+https://github.com/Yu-Yamaguchi/mariadb-partitioning/blob/master/emotion_dic_data.csv
 
 ``` sql
 MariaDB [sample]> LOAD DATA LOCAL INFILE '/home/vagrant/emotion_dic_data.csv'
